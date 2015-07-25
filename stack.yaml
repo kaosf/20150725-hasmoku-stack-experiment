@@ -1,5 +1,6 @@
 flags: {}
 packages:
 - '.'
-extra-deps: []
+extra-deps:
+  - pandoc-1.15.0.6
 resolver: lts-2.19
